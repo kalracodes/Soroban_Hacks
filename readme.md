@@ -5,6 +5,7 @@ Modern e-Petition Systems build on centralised projects have the power to exploi
 Keeping in mind these problems we have build a decentralised e-petition system with the help of Tezos ecosystem.
 
 The front end is be built using React.js and Material UI.
+![](https://freeimage.host/i/JPZBL12)
 
 React is linked with to the Freighter.
 
@@ -14,6 +15,9 @@ The smart contract would consist of two functions:
 
 **Signing system** -- As an input, smart-contract requires the Petition Number in order to update the list of signature. No of signatures are incremented upon calling this function. Assertions are provided to check whether no two Signatures are same. 
 
+## Developers
+Aryan Kalra - https://github.com/kalracodes
+Vedika Parwal - https://github.com/VedikaParwal
 
 ## Prerequisites
 This project requires NodeJS (version 8 or later) and NPM. Node and NPM are really easy to install. To make sure you have them available on your machine, try running the following command.
@@ -33,5 +37,3 @@ npm install
 ```sh
 npm run start
 ```
-
-<h2>Sample of the frontend -</h2>
