@@ -18,6 +18,7 @@ The smart contract would consist of two functions:
 ## Developers
 Aryan Kalra - https://github.com/kalracodes
 Vedika Parwal - https://github.com/VedikaParwal
+Ananya Wadhwa - https://github.com/ananya-w
 
 ## Prerequisites
 This project requires NodeJS (version 8 or later) and NPM. Node and NPM are really easy to install. To make sure you have them available on your machine, try running the following command.
